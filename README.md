@@ -2,7 +2,8 @@
 
 ## Github Link
 
- [tmashoro](https://github.com/tmashoro/Mern)
+ [tmashoro](https://github.com/tmashoro/Mern)/
+
  [Website](https://powerful-chamber-55691.herokuapp.com/)
 
 ## Description
